@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+   
+}
+
+h1{
+    color: rgb(48, 93, 3);
+    margin-top: 10px;
+    width: 500px;
+    margin-left: 400px;
+    text-align: center;
+    background-color: antiquewhite;
+    border: darkcyan solid 5px;
+    border-radius: 10px;
+}
+#question {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 450px;
+    margin-top: 10px;
+
+}
+.my-button{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 500px;
+    border: 2px solid rgb(209, 247, 134);
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+    font-size: 18px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#result {
+    color: rgb(1, 10, 17);
+    margin-left: 450px;
+    margin-top: 15px;
+    background-color: rgb(188, 234, 198);
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+}
