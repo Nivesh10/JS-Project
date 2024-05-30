@@ -1,0 +1,17 @@
+canvas {
+    border: 1px solid black;
+}
+
+button {
+    color: burlywood;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 8px;
+   cursor: pointer;
+}
+
+button:hover{
+    background-color: brown;
+    color: aliceblue;
+}
